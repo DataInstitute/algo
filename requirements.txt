@@ -3,4 +3,3 @@ scipy
 matplotlib
 googlemaps
 scikit-learn
-sklearn
